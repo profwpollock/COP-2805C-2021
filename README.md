@@ -1,4 +1,4 @@
-COP2805 - Repo for class Project #2
+COP2805C - Repo for class Project #2
 ===============
 
 Repository for HCC COP-2805C (Java II) Class Project 2
