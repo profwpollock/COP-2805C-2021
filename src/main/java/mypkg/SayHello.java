@@ -1,7 +1,7 @@
 // Git collaborative COP-2805C (Java II) project.
 // $Id$
 
-package mypkg;
+package main.java.mypkg;
 
 /** Class used for COP-2805C git and GitHub project.
 */
@@ -24,6 +24,9 @@ public class SayHello
         // (3) Keep the existing println statement at the very end.
 
         System.out.println("Hey! My name is Waylan Corey,");
+        counter++;
+        
+        System.out.println("Greetings and salutations! My name is Stan Smoczyk");
         counter++;
 
         System.out.println( "Number of students who edited this file: "
