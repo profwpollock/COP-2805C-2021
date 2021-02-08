@@ -54,6 +54,9 @@ public class SayHello
         System.out.println("\nHi guys! Jesse Aitken here.\n");
         counter++;
         
+        System.out.println("Hi class, my name is Douglas Lee.");
+        counter++;
+        
         System.out.println( "Number of students who edited this file: "
             + counter );
     }
