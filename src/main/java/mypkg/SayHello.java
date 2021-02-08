@@ -1,7 +1,7 @@
 // Git collaborative COP-2805C (Java II) project.
 // $Id$
 
-package main.java.mypkg;
+package mypkg;
 
 /** Class used for COP-2805C git and GitHub project.
 */
