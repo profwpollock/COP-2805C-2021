@@ -2,12 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>mypkg</groupId>
-  <artifactId>COP-2805C-template.git</artifactId>
+  <artifactId>COP-2805C-2021.git</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.0-SNAPSHOT</version>
   <name>gitproj</name>
 
-  <url>https://github.com/profwpollock/COP-2805C-2018</url>
+  <url>https://github.com/profwpollock/COP-2805C-2021</url>
 
   <description>
     Initial version for the Git project, "SayHello".
