@@ -5,6 +5,9 @@ build
 nbproject
 build.xml
 manifest.mf
+.idea
+*.iml
+.vscode
 target
 *.class
 *.jar
