@@ -90,7 +90,7 @@ public class SayHello
 
         System.out.println("\nHello everyone! My name is Ulas Koca.");
         counter++;
-        
+
 
         System.out.println("\nHey! My name is Sam!");
         counter++;
@@ -100,7 +100,7 @@ public class SayHello
 
         System.out.println("\nHello! My name is Michael Valentine.");
         counter++;
-        
+
         System.out.println("\nWhats up guys! My name is Angel Remigio.");
         System.out.println("I love playing and watching sports!\n");
         counter++;
@@ -111,8 +111,18 @@ public class SayHello
         System.out.println("\n What's good my peeps? I'm Justin Meek!");
         counter++;
 
+        System.out.println("\n Lets see if this works now.  -Sean");
+        counter++;
+
+        System.out.println("\n Hello everyone this is Adriel.");
+        System.out.println("\n I look forward to working with you.");
+        counter++;
+
+        System.out.println("Hello! My name is Lauren Bartlett. \n");
+        counter++;
+
         System.out.println( "\nNumber of students who edited this file: "
             + counter );
-        
+
     }
 }
