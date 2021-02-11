@@ -114,7 +114,7 @@ public class SayHello
         System.out.println("\n Lets see if this works now.  -Sean");
         counter++;
 
-        System.out.println("\nHello everyone this is Adriel.");
+        System.out.println("\nHello everyone this is Adriel.\n");
         System.out.println("I look forward to working with you.\n");
         counter++;
 
