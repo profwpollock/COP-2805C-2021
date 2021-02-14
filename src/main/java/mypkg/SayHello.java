@@ -121,6 +121,9 @@ public class SayHello
         System.out.println("Hello! My name is Lauren Bartlett. \n");
         counter++;
         
+        System.out.println("Hello! My name is Manuel Tamayo. \n");
+        counter++;
+        
         System.out.println("\nHi! It's Ann Katz.");
         System.out.println("Did you ever hear about that lawyer who loved the band U2?");
         System.out.println("He did all of his work pro-Bono!\n");
