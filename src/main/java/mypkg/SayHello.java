@@ -128,6 +128,10 @@ public class SayHello
         System.out.println("Did you ever hear about that lawyer who loved the band U2?");
         System.out.println("He did all of his work pro-Bono!\n");
         counter++;
+
+        System.out.println("\n Hello! My name is Yasmin Washington");
+        System.out.println("I look forward to meeting all of you\n");
+        counter++;
         
         System.out.println( "\nNumber of students who edited this file: "
             + counter );
